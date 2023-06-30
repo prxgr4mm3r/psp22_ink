@@ -1,0 +1,10 @@
+/home/prxgr4mmer/CLionProjects/Contracts/psp22_ink/target/ink/release/deps/linux_raw_sys-2311d0eec6aca8e6.rmeta: /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/lib.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/errno.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/general.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/ioctl.rs
+
+/home/prxgr4mmer/CLionProjects/Contracts/psp22_ink/target/ink/release/deps/liblinux_raw_sys-2311d0eec6aca8e6.rlib: /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/lib.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/errno.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/general.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/ioctl.rs
+
+/home/prxgr4mmer/CLionProjects/Contracts/psp22_ink/target/ink/release/deps/linux_raw_sys-2311d0eec6aca8e6.d: /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/lib.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/errno.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/general.rs /home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/ioctl.rs
+
+/home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/lib.rs:
+/home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/errno.rs:
+/home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/general.rs:
+/home/prxgr4mmer/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.3/src/x86_64/ioctl.rs:
